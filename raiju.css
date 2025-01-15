@@ -1,7 +1,6 @@
 
 .controller.custom {
-    background-color: green;
-    background: url(base.png); 
+    background: url(base-g.png); 
     height: 558px;
     width: 866px;
 }
